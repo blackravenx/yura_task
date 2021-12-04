@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "AK - 47",
+      "price": 279.99,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/AK-47_assault_rifle.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Glock 17",
+      "price": 599,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Glock_17_%286825676904%29.jpg/1200px-Glock_17_%286825676904%29.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The M67",
+      "price": 45,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/M67b.jpg/270px-M67b.jpg "
+    },
+    {
+      "id": 4,
+      "title": "FGM - 148 Javelin",
+      "price": 126000,
+      "image": "https://static.turbosquid.com/Preview/2017/03/06__05_37_20/Anti_Tank_Missile_FGM_148_Javelin_Set_001.jpgAFEB02A3-1305-47B7-B9BC-C23045F6C5AFLarge.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Dragunov rifle",
+      "price": 3394.81,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/SVD_Dragunov.jpg"
+    },
+    {
+      "id": 6,
+      "title": "M249 SAW",
+      "price": 4087,
+      "image": "https://m.media-amazon.com/images/I/61w4KhFIgTL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "M16",
+      "price": 969.45,
+      "image": "https://static5.depositphotos.com/1040880/464/i/600/depositphotos_4641065-stock-photo-us-army-m4a1-rifle.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The AA - 12 Shotgun",
+      "price": 3250,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/AA-12.jpg/640px-AA-12.jpg"
+    },
+    {
+      "name": "123",
+      "image": "213",
+      "cost": 123,
+      "id": 9
+    }
+  ]
+}
